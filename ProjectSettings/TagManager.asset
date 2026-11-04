@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - PointsCollectable
+  - DamageCollectable
+  - Decorative
+  - Obstacles
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3366637537
+    locked: 0
+  - name: Points Collectable
+    uniqueID: 1216258025
+    locked: 0
+  - name: Damage Collectable
+    uniqueID: 3934606829
+    locked: 0
+  - name: Decorative
+    uniqueID: 3288151249
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3996314255
+    locked: 0
+  - name: Player
+    uniqueID: 4286132051
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Ground
+  - Points Collectable
+  - Damage Collectable
+  - Decorative
+  - Obstacles
+  - Player
+  m_MigratedRenderPipelines: []
