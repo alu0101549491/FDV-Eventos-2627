@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - DamageSource
+  - Collectable
   layers:
   - Default
   - TransparentFX
@@ -11,7 +13,7 @@ TagManager:
   - Ground
   - Water
   - UI
-  - PointsCollectable
+  - Collectable
   - DamageCollectable
   - Decorative
   - Obstacles
@@ -44,7 +46,7 @@ TagManager:
   - name: Ground
     uniqueID: 3366637537
     locked: 0
-  - name: Points Collectable
+  - name: Collectable
     uniqueID: 1216258025
     locked: 0
   - name: Damage Collectable
@@ -56,13 +58,13 @@ TagManager:
   - name: Obstacles
     uniqueID: 3996314255
     locked: 0
-  - name: Player
+  - name: Character
     uniqueID: 4286132051
     locked: 0
   m_RenderingLayers:
   - Default
   - Ground
-  - Points Collectable
+  - Collectable
   - Damage Collectable
   - Decorative
   - Obstacles
